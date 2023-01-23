@@ -1,6 +1,6 @@
 Hola, I’m @SesatGuy. I’m A Random Guy That Program Random Batch File.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SesatGuy&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SesatGuy&show_icons=true&theme=radical)
 
