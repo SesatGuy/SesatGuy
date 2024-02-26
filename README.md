@@ -1,4 +1,4 @@
-Hola, I’m @SesatGuy. I’m A Random Guy That Program Random Batch File.
+Hola, I’m @SesatGuy. I’m A Random Guy That make random projects 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SesatGuy&layout=compact)
 
